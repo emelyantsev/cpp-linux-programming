@@ -1,0 +1,5 @@
+gcc -Wall -O2 -pthread example.c -o example
+
+g++ -Wall -O2 -pthread example2.cpp -o example2
+
+g++ -Wall -O2 -pthread example3.cpp -o example3
